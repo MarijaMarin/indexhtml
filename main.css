@@ -5,3 +5,7 @@ h1 {
 body {
 	background-color: brown;
 }
+p {
+	background-color: chocolate;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
